@@ -1,4 +1,4 @@
 my:
-  greeting: welcome to greatlearning
+  greeting: welcome to Spring Boot Config Server Management
   list:
     values: banana,mango,apple
